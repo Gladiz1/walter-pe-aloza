@@ -1,0 +1,92 @@
+/* ===== HERO (fondo principal) ===== */
+.hero {
+  background: 
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)),  /* sombra gris-oscura */
+    url('../img/heroes/foto-principal.png') center/cover no-repeat;
+  height: 100vh;
+  position: relative;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+
+.hero .overlay {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(0, 0, 0, 0.3); /* Oscurece un poco el fondo */
+}
+
+/* ===== Textos en la portada ===== */
+.hero .container {
+  position: relative;
+  z-index: 2;
+}
+
+/* ===== Botones ===== */
+.btn-warning {
+  font-weight: bold;
+  border-radius: 30px;
+}
+
+/* ===== Espaciado general ===== */
+section {
+  scroll-margin-top: 80px; /* Para que no tape el navbar */
+}
+
+/* ===== Navbar ===== */
+.navbar-brand span {
+  line-height: 1.2;
+}
+
+/* ===== Responsivo ===== */
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 2rem;
+  }
+  .hero p {
+    font-size: 1rem;
+  }
+}
+/* ===== GALERÍA ===== */
+.gallery-img {
+  cursor: pointer;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.gallery-img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+}
+
+/* ===== CONTACTO ===== */
+#contacto h4 {
+  font-weight: 600;
+}
+
+#contacto iframe {
+  border-radius: 10px;
+}
+
+#contacto .form-control:focus {
+  border-color: #198754;
+  box-shadow: 0 0 5px rgba(25, 135, 84, 0.3);
+}
+
+.hero h1, .hero p, .hero a {
+  animation: fadeUp 1s ease-out;
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
