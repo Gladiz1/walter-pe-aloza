@@ -5,7 +5,25 @@ const galleryImages = {
   'aniversario': [
     'img/galeria/aniversario/foto1.jpeg',
     'img/galeria/aniversario/foto2.jpeg',
-    'img/galeria/aniversario/foto3.jpeg'
+    'img/galeria/aniversario/foto3.jpeg',
+    'img/galeria/aniversario/foto01.jpeg',
+    'img/galeria/aniversario/foto02.jpeg',
+    'img/galeria/aniversario/foto03.jpeg',
+    'img/galeria/aniversario/foto04.jpeg',
+    'img/galeria/aniversario/foto05.jpeg',
+    'img/galeria/aniversario/foto06.jpeg',
+    'img/galeria/aniversario/foto07.jpeg',
+    'img/galeria/aniversario/foto08.jpeg',
+    'img/galeria/aniversario/foto09.jpeg',
+    'img/galeria/aniversario/foto10.jpeg',
+    'img/galeria/aniversario/foto11.jpeg',
+    'img/galeria/aniversario/foto12.jpeg',
+    'img/galeria/aniversario/foto13.jpeg',
+    'img/galeria/aniversario/foto14.jpeg',
+    'img/galeria/aniversario/foto15.jpeg',
+    'img/galeria/aniversario/foto16.jpeg',
+    'img/galeria/aniversario/foto17.jpeg',
+    'img/galeria/aniversario/foto18.jpeg',
   ],
   'marcha-paz': [
     'img/galeria/marcha-por-la-paz/foto01.jpeg',
@@ -26,6 +44,20 @@ const galleryImages = {
     'img/galeria/marcha-por-la-paz/foto16.jpg',
     'img/galeria/marcha-por-la-paz/foto17.jpg',
     'img/galeria/marcha-por-la-paz/foto18.jpg',
+  ],
+    'ajedrez': [
+    'img/galeria/ajedrez/foto01.jpeg',
+    'img/galeria/ajedrez/foto02.jpeg',
+    'img/galeria/ajedrez/foto03.jpeg',
+    'img/galeria/ajedrez/foto04.jpeg',
+    'img/galeria/ajedrez/foto05.jpeg',
+  ],
+  'carrera': [
+    'img/galeria/carrera/foto01.jpeg',
+    'img/galeria/carrera/video01.mp4',
+    'img/galeria/carrera/foto03.jpeg',
+    'img/galeria/carrera/foto04.jpeg',
+    'img/galeria/carrera/foto05.jpeg',
   ]
 };
 
