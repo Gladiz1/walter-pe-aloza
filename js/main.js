@@ -8,9 +8,24 @@ const galleryImages = {
     'img/galeria/aniversario/foto3.jpeg'
   ],
   'marcha-paz': [
-    'img/galeria/marcha-paz/marcha1.jpg',
-    'img/galeria/marcha-paz/marcha2.jpg',
-    'img/galeria/marcha-paz/marcha3.jpg'
+    'img/galeria/marcha-por-la-paz/foto01.jpeg',
+    'img/galeria/marcha-por-la-paz/foto02.jpeg',
+    'img/galeria/marcha-por-la-paz/foto03.jpeg',
+    'img/galeria/marcha-por-la-paz/foto04.jpg',
+    'img/galeria/marcha-por-la-paz/foto05.jpg',
+    'img/galeria/marcha-por-la-paz/foto06.jpg',
+    'img/galeria/marcha-por-la-paz/foto07.jpg',
+    'img/galeria/marcha-por-la-paz/foto08.jpg',
+    'img/galeria/marcha-por-la-paz/foto09.jpg',
+    'img/galeria/marcha-por-la-paz/foto10.jpg',
+    'img/galeria/marcha-por-la-paz/foto11.jpg',
+    'img/galeria/marcha-por-la-paz/foto12.jpg',
+    'img/galeria/marcha-por-la-paz/foto13.jpg',
+    'img/galeria/marcha-por-la-paz/foto14.jpg',
+    'img/galeria/marcha-por-la-paz/foto15.jpg',
+    'img/galeria/marcha-por-la-paz/foto16.jpg',
+    'img/galeria/marcha-por-la-paz/foto17.jpg',
+    'img/galeria/marcha-por-la-paz/foto18.jpg',
   ]
 };
 
